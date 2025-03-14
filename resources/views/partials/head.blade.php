@@ -10,7 +10,7 @@
     <meta name="description" content="Khu đô thị mới Hoàng Huy New City là dự án Nhà liền kề, shophouse và chung cư với tổng diện tích đất lớn 65ha do Tập đoàn tài chính Hoàng Huy làm chủ đầu tư tọa lạc tại thành phố Thủy Nguyên, Hải Phòng." />
     <meta property="og:title" content="Hoang Huy New City" />
     <meta property="og:description" content="Khu đô thị mới Hoàng Huy New City là dự án Nhà liền kề, shophouse và chung cư với tổng diện tích đất lớn 65ha do Tập đoàn tài chính Hoàng Huy làm chủ đầu tư tọa lạc tại thành phố Thủy Nguyên, Hải Phòng." />
-    <meta property="og:image" content="{{ asset('images/social-image.png') }}" />
+    <meta property="og:image" content="{{ asset('images/main-slider/slider1.jpg') }}" />
     <meta property="og:url" content="{{ url()->current() }}" />
     <meta name="format-detection" content="telephone=no">
     
