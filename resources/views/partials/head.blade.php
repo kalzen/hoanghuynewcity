@@ -57,7 +57,7 @@
     <link rel="stylesheet" href="{{ asset('vendor/lightgallery/css/lightgallery.min.css') }}">
     <link rel="stylesheet" href="{{ asset('vendor/animate/animate.css') }}">
     <!-- Custom Stylesheet -->
-    <link rel="stylesheet" href="{{ asset('css/style.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/style.css?v=1.01') }}">
     <!-- REVOLUTION SLIDER CSS -->
     <link rel="stylesheet" type="text/css" href="{{ asset('vendor/revolution/revolution/css/revolution.min.css') }}">
 </head>
