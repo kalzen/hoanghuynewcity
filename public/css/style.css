@@ -16350,7 +16350,11 @@ ol.comment-list {
   @media only screen and (max-width: 767px) {
     .error-page .error-head {
       font-size: 20px;
-      line-height: 34px; } }
+      line-height: 34px; }
+    .tp-caption
+  {
+    color: #222 !important;
+  } }
 
 .error-page .input-group {
   border: 2px solid #eceef2;
