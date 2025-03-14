@@ -36,7 +36,7 @@
         <div class="footer-bottom">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6 col-sm-12 text-md-left text-center"> <span>© <span class="current-year">2024</span>  DexignZone. All Right Reserved</span> </div>
+                    <div class="col-md-6 col-sm-12 text-md-left text-center"> <span>© <span class="current-year">2025</span>  Kalzen Agency. All Right Reserved</span> </div>
                     <div class="col-md-6 col-sm-12 text-md-right text-center"> 
 						<div class="widget-link "> 
 							<ul>
