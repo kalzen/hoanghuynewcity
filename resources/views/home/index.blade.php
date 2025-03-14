@@ -112,7 +112,7 @@
                                     data-paddingbottom="[0,0,0,0]"
                                     data-paddingleft="[0,0,0,0]"
                                     style="z-index: 4; white-space: normal; color:#000; font-family: 'Roboto Condensed', sans-serif; border-width:0px; font-weight:600; text-transform:uppercase;">
-                                    <a href="#" data-toggle="modal" data-target="#ctaModal"  class="btn btn-primary">Nhận báo giá</a>	
+                                    <a href="https://zalo.me/0928291291"   class="btn btn-primary">Nhận báo giá</a>	
                                 </div>
                                 <div class="tp-caption rs-button" 
                                     id="slide-3204-layer-5" 
@@ -244,7 +244,7 @@
                                     data-paddingbottom="[0,0,0,0]"
                                     data-paddingleft="[0,0,0,0]"
                                     style="z-index: 4; white-space: normal; color:#000; font-family: 'Roboto Condensed', sans-serif; border-width:0px; font-weight:600; text-transform:uppercase;">
-                                    <a href="#" class="btn btn-primary">Book A Site Visit</a>	
+                                    <a href="https://zalo.me/0928291291" class="btn btn-primary">Nhận báo giá</a>	
                                 </div>
                                 <div class="tp-caption rs-button" 
                                     id="slide-200-layer-5" 

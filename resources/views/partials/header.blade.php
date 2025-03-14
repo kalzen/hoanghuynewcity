@@ -35,7 +35,7 @@
 					<!-- extra nav -->
 					<div class="extra-nav">
 						<div class="extra-cell">
-							<a href="#" data-toggle="modal" data-target="#ctaModal" class="btn btn-primary btnhover13">Gọi ngay</a>
+							<a href="https://zalo.me/0928291291"  class="btn btn-primary btnhover13">Gọi ngay</a>
 						</div>
 					</div>
 					<div class="header-nav navbar-collapse collapse justify-content-end" id="navbarNavDropdown">
